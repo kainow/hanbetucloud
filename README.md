@@ -1,2 +1,13 @@
-"# hanbetucloud" 
-"# hanbetucloud" 
+tensorflow、sklearn、keras等を用い、アップロードした写真の十種雲形が
+積雲:cumulus::cu
+巻層雲:cirrostratus::cs
+層積雲:stratocumulus::sc
+積乱雲:cumulonimbus::cb
+乱層雲:nimbostratus::ns
+巻雲:cirrus::ci
+巻積雲:cirrocumulus::cc
+層雲:stratus::st
+高層雲:altostratus::as
+高積雲:altocumulus::ac
+のうちどれなのかを把握する画像識別プログラムを作りました。
+フロントデザインが真っ白なので、各雲ごとの説明(降雨の注意が必要か等)と、識別結果ごとにその雲の説明ページに移るようなwebアプリに仕上げたいです
